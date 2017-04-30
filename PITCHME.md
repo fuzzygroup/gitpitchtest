@@ -1,5 +1,3 @@
-footer: © J. Scott Johnson, 2016 **www.fuzzyblog.io**
-slidenumbers: true
 # [fit] All You Need to Know About Pricing
 ---
 # Learning This Cost Me $2,000
